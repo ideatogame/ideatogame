@@ -14,3 +14,5 @@
   </ul>
   
 <hr>
+
+<h2> Todos os repositórios que tiverem uma imagem em seu README.md possuem um link direto para uma versão WebGL jogável, basta apenas clicar nesta imagem </h2>
