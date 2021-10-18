@@ -1,4 +1,4 @@
-[![Header](https://github.com/ideatogame/ideatogame/blob/main/Header_GithubReadme_IdeaToGame.png "Header")](https://www.youtube.com/c/IdeaToGame)
+[![Header](https://raw.githubusercontent.com/ideatogame/ideatogame/main/Readme_IdeaToGame.png "Header")](https://www.youtube.com/c/IdeaToGame)
 
 <h1> Apresentação </h1>
 <p>Perfil oficial da página Idea.ToGame. Todos os repositórios presentes foram citados ou utilizados em vídeos do canal do YouTube ou posts em nossas redes sociais. Caso estejam atrás do meu portifólio pessoal, o link estará logo abaixo.</p>
