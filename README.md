@@ -7,7 +7,7 @@
 
 <h1> Links </h1>
 <ul>
-  <li><a href="https://github.com/filipeduraes">Portifólio Pessoal</a></li>
+  <li><a href="filipeduraes.github.io/filipeduraes">Portifólio Pessoal</a></li>
   <li><a href="https://www.instagram.com/idea.togame">Instagram</a></li>
   <li><a href="https://facebook.com/idea.togame">Facebook</a></li>
   <li><a href="https://www.youtube.com/c/IdeaToGame">Youtube</a></li>
